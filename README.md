@@ -43,7 +43,6 @@ This repository contains the complete Project-Based Learning (PBL) work develope
 
 *Suvidha Setia*  
 B.Tech CSE (AI & ML)  
-UPES, Dehradun
 
 ## Academic Purpose
 
